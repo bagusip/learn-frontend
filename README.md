@@ -20,3 +20,6 @@ Try my best to do 100 days of code
 - HTML - Meta Tags
 - CSS - Intro
 - CSS - Selectors
+
+# Day 3
+- CSS - Colors
