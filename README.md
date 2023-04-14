@@ -23,3 +23,6 @@ Try my best to do 100 days of code
 
 # Day 3
 - CSS - Colors
+
+# Day 4
+- CSS - Units and sizes
